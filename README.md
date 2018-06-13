@@ -14,14 +14,40 @@ countries.
 go roaming in a foreign country.*
 
 The document relies on our collaboration. If you have a provider that
-is not the list or visited a country that is not in the list, please
-add it here by filing a pull request on GitHub!
+is not the list or visited a country that is not in the list (of which
+there are many currently!), please add it here by [filing a pull
+request on GitHub or creating an
+issue](https://github.com/Inventitech/roaming-mobile-network-provider-abroad)!
+
+
+Table of Contents
+=================
+
+   * [Mobile Network Coverage Abroad](#mobile-network-coverage-abroad)
+   * [Table of Contents](#table-of-contents)
+      * [Austria](#austria)
+      * [Belgium](#belgium)
+      * [Germany](#germany)
+      * [Netherlands](#netherlands)
+         * [Simpel](#simpel)
+         * [youfone](#youfone)
+         * [hollandsnieuwe](#hollandsnieuwe)
+      * [Sweden](#sweden)
+
+Created by [gh-md-toc](https://github.com/ekalinin/github-markdown-toc)
+
 
 ## Austria
 
+todo
+
 ## Belgium
 
+todo
+
 ## Germany
+
+todo
 
 ## Netherlands
 
@@ -29,16 +55,26 @@ add it here by filing a pull request on GitHub!
 
 [Simpel](https://simpel.nl/) is a Dutch MVNO that uses the KPN network in the Netherlands.
 
-| Country | Provider |  4G     | Note                                                        | Checked    |
-|---------|----------|---------|-------------------------------------------------------------|------------|
-| Italy   | I Tim    | &check; | Has the best network. Good 4G coverage in country side.     | June 2018  |
+| Country | Provider | 4G | Note                                                        | Checked    |
+|---------|----------|----|-------------------------------------------------------------|------------|
+| Italy   | I Tim    | ✔ | Has the best network. Good 4G coverage in country side.     | June 2018  |
 
 ### youfone
 
 [youfone](https://www.youfone.nl/) is a Dutch MVNO that uses the KPN network in the Netherlands.
 
-| Country | Provider |  4G     | Note                                                                                        | Checked   |
-|---------|----------|---------|---------------------------------------------------------------------------------------------|-----------|
-| Italy   | I Wind   | &check; | Budget provider in Italy; relatively sparse network coverage in the country side (often 3G) | June 2018 |
+| Country | Provider | 4G | Note                                                                                        | Checked   |
+|---------|----------|----|---------------------------------------------------------------------------------------------|-----------|
+| Italy   | I Wind   | ✔ | Budget provider in Italy; relatively sparse network coverage in the country side (often 3G) | June 2018 |
+
+### hollandsnieuwe
+
+[hollandsnieuwe](https://www.hollandsnieuwe.nl/) is a Dutch MVNO that uses the Vodafone network in the Netherlands.
+
+| Country | Provider | 4G | Note                                                                                        | Checked       |
+|---------|----------|----|---------------------------------------------------------------------------------------------|---------------|
+| Germany | Vodafone | ?  | Good provider, second network in Germany.                                                   | December 2017 |
 
 ## Sweden
+
+todo
