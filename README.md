@@ -10,14 +10,18 @@ mobile virtual network operator (MVNO) offer fine 4G service in the
 home country, but resort to second or third tier networks in foreign
 countries.
 
-*This list documents which mobile provider you will be using when you
-go roaming in a foreign country.*
+**This list documents which mobile provider you will be using when you
+go roaming in a foreign country.** It is ordered by the origin of your
+home provider, and then lists in a table all known roaming partners
+for this provider.
 
-The document relies on our collaboration. If you have a provider that
-is not the list or visited a country that is not in the list (of which
-there are many currently!), please add it here by [filing a pull
-request on GitHub or creating an
+The document relies on your collaboration and really is a community
+effort. If you have a provider that is not the list or visited a
+country that is not in the list (of which there are many currently!),
+please add it here by [filing a pull request on GitHub or creating an
 issue](https://github.com/Inventitech/roaming-mobile-network-provider-abroad)!
+Moreover, providers can change their partners, thus verifying existing
+information by updating the date helps, too!
 
 
 Table of Contents
@@ -65,6 +69,7 @@ todo
 
 | Country | Provider | 4G | Note                                                                                        | Checked   |
 |---------|----------|----|---------------------------------------------------------------------------------------------|-----------|
+| Germany | ?        | ?  |	                                                                                        | June 2018 |
 | Italy   | I Wind   | ✔ | Budget provider in Italy; relatively sparse network coverage in the country side (often 3G) | June 2018 |
 
 ### hollandsnieuwe
