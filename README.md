@@ -67,10 +67,10 @@ todo
 
 [youfone](https://www.youfone.nl/) is a Dutch MVNO that uses the KPN network in the Netherlands.
 
-| Country | Provider | 4G | Note                                                                                        | Checked   |
-|---------|----------|----|---------------------------------------------------------------------------------------------|-----------|
-| Germany | ?        | ?  |	                                                                                        | June 2018 |
-| Italy   | I Wind   | ✔ | Budget provider in Italy; relatively sparse network coverage in the country side (often 3G) | June 2018 |
+| Country | Provider      | 4G | Note                                                                                        | Checked   |
+|---------|---------------|----|---------------------------------------------------------------------------------------------|-----------|
+| Germany | Telefonica/O2 | ✔  |	                                                                                        | June 2018 |
+| Italy   | I Wind        | ✔ | Budget provider in Italy; relatively sparse network coverage in the country side (often 3G) | June 2018 |
 
 ### hollandsnieuwe
 
